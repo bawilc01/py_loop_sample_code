@@ -34,7 +34,3 @@ prices=[] #List to store price of the product
 
 # the URL we want selenium webdriver to get for us
 driver.get("https://www.newegg.com/Laptops-Notebooks/Category/ID-223?Tpk=laptops")
-
-
-
-

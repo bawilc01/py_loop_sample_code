@@ -36,13 +36,6 @@ products=[] #List to store name of the product
 prices=[] #List to store price of the product
 
 # the URL we want selenium webdriver to get for us
-<<<<<<< HEAD
+
 driver.get("https://www.newegg.com/Laptops-Notebooks/Category/ID-223?Tpk=laptops")
 
-
-
-
->>>>>>> branch_one
-=======
-driver.get("https://www.newegg.com/Laptops-Notebooks/Category/ID-223?Tpk=laptops")
->>>>>>> branch_one

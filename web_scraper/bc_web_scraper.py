@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Web Scraper Comment
-=======
+
 """
 B. Coble
 Web Scraping Example
